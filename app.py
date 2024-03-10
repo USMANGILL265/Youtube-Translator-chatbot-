@@ -46,7 +46,7 @@ if st.button("Generate Transcript"):
         # Ask the user for the target language
 
         # Set up OpenAI API key
-        #openai.api_key = "Enter Your OpenAI API Key"
+        openai.api_key = "Enter Your OpenAI API Key"
 
         translation_prompt = f"Translate the following English text to {target_language}: \n\n {result}"
         response = openai.ChatCompletion.create(
