@@ -72,7 +72,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Founding Team:
+Our team comprises passionate developers and AI enthusiasts dedicated to reimagining the future of education. With diverse backgrounds in academia and technology, we bring a unique blend of expertise to Ai.
+Collaborators:
+https://github.com/shaistaDev7
 
