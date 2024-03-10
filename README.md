@@ -1,6 +1,16 @@
-# YouTube Transcript Translator with Audio extraction
 
-This Streamlit app allows users to generate transcripts from YouTube videos, translate them into different languages, and download the translated text.
+# YouTube Transcript Translator
+
+This Streamlit app aims to provide educational assistance by allowing users to generate transcripts from YouTube videos and translate them into different languages. The tool is designed to help language learners, students, and educators access and understand spoken content more effectively.
+
+## Purpose
+
+The primary goal of this project is to facilitate language learning and educational activities by providing a convenient tool for extracting and translating transcripts from YouTube videos. By converting spoken content into written form and offering translation capabilities, the app aims to:
+
+- Assist language learners in improving their listening and comprehension skills.
+- Support students in accessing educational content in their native language or a language they are studying.
+- Aid educators in creating subtitles or transcripts for instructional videos.
+- Promote accessibility by making video content more comprehensible for individuals with hearing impairments or language barriers.
 
 ## Issues Addressed
 
