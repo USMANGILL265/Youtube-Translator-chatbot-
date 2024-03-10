@@ -72,8 +72,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Founding Team:
-Our team comprises passionate developers and AI enthusiasts dedicated to reimagining the future of education. With diverse backgrounds in academia and technology, we bring a unique blend of expertise to Ai.
-Collaborators:
-https://github.com/shaistaDev7
+# Founding Team:
 
+
+Our team comprises passionate developers and AI enthusiasts dedicated to reimagining the future of education. With diverse backgrounds in academia and technology, we bring a unique blend of expertise to Ai.
+
+**Collaborators**:
+https://github.com/shaistaDev7
+https://github.com/shahzcoder
