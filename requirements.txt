@@ -1,0 +1,8 @@
+install openai==0.28
+install art
+install colorama
+install pytube
+install transformers
+install streamlit
+
+
